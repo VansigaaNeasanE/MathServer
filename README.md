@@ -91,11 +91,11 @@ def churn_rate(request):
 
 ## OUTPUT - SERVER SIDE:
 
-![alt text](image-1.png)
+![alt text](image-3.png)
 
 ## OUTPUT - WEBPAGE:
 
-![alt text](image-2.png)
+![alt text](image-6.png)
 
 ## RESULT:
 The the web page to calculate Churn Rate using server-side scripts is created successfully.
